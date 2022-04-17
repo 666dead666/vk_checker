@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "proxy-chain": "^1.0.4",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "puppeteer-page-proxy": "^1.2.8"
+  }
+}
